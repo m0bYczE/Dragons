@@ -1,0 +1,8 @@
+name: Dragons
+main: cz.m0bY_czE.dragons.Main
+authors: m0bY_czE
+softdepend: [Vault]
+version: 1.0
+commands:
+  forcestart:
+    description: Force start
